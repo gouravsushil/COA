@@ -1,5 +1,5 @@
-;Name: Sourav Chandra Dey
-;Regd No.: 2141004133       
+;Name: SUSHIL GOURAV
+;Regd No.: 2141007043  
 
 MOV AX,3000H
 MOV DS,AX
